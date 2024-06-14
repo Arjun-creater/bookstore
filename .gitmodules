@@ -1,0 +1,3 @@
+[submodule "frontend/my-react-app"]
+	path = frontend/my-react-app
+	url = https://github.com/Arjun-creater/bookstoreapp.git
